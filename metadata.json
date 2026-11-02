@@ -1,0 +1,6 @@
+{
+  "name": "WaveRip - YouTube MP3 & MP4 Downloader",
+  "description": "Baixe vídeos e músicas do YouTube em MP3 ou MP4 com máxima qualidade e rapidez diretamente no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
